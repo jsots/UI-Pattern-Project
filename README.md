@@ -5,13 +5,6 @@
 This project is going to challenge you to combine your programming skills in
 JavaScript with your skills building out user interfaces with HTML and CSS.
 
-## Prerequisites
-
-- HTML and CSS
-- CSS Layout
-- Programming with JavaScript
-- Working with the DOM
-
 ## Instructions
 
 1. Create a new repository on GitHub (not GitHub Enterprise).
@@ -77,44 +70,23 @@ the user from clicking those buttons.
 
 ### List of APIs
 
-This is a non-exhaustive list:
-
-1. Marvel: developer.marvel.com
-1. Star Wars: swapi.dev
-1. Weather: openweathermap.org/api
-1. Giphy: developers.giphy.com
-1. Pokemon: http://pokeapi.co
-1. Google Books: developers.google.com/books
-1. City of Chicago: data.cityofchicago.org
-1. Beer: brewerydb.com/developers
-1. Chuck Norris: http://www.icndb.com
-1. Rick and Morty: rickandmortyapi.com/documentation/#rest
-1. Dad Jokes: icanhazdadjoke.com/api
-1. NASA: api.nasa.gov
-
-There is also
-[this collection of public APIs](https://github.com/public-apis/public-apis).
+You can find a list of public APIs available [here](https://github.com/public-apis/public-apis).
+We recommend chosing an API that does not require authentication! 
 
 ## Requirements
 
-Each student should pick one UI Pattern and one API and combine the two. The
-data to populate the UI Pattern should come from the API. When the user loads
-the page, they should see the data from the API load into the UI pattern on the
-screen.
+Combine one UI pattern with one API.
+The page should dynamically fill with data fetched from the API on page load.
 
 ### Technical Requirements
 
 Your project should meet the following requirements:
 
 - Runs without errors
-- Shows the UI pattern you selected populated with data from the API you
-  selected
-- Functions according to the descriptions above. The user should be able to
-  interact with your UI.
-- Includes a README written in well formatted Markdown (_hint: look up a README
-  template_)
-- Shows a good commit history with frequent commits. We're looking for lots of
-  small commits.
+- Shows the UI pattern you selected populated with data from the API you selected
+- Functions according to the descriptions above. The user should be able to interact with your UI.
+- Includes a README written in well formatted Markdown (_hint: look up a README template_)
+- Shows a good commit history with frequent commits. We're looking for lots of small commits!
 
 ## [License](LICENSE)
 
