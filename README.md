@@ -4,6 +4,8 @@
 
 ## How to operate the UI:
 
+You can access it [here](https://jsots.github.io/UI-Pattern-Project/).
+
 There are buttons that can be clicked on in order to navigate through the dex. Click the right arrow to go to the next digimon in the dex, and click the left arrow in order to go to the previous digimon in the dex (based on its index, shown above the digimon). The random button will take you to a random digimon in the dex. The previous and next buttons work even when you are at the start or end of the dex, it will simply loop. If you hit the left arrow key when at the start of the dex, it will take you to the last entry and vice versa.
 
 ### Credits
